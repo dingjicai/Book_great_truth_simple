@@ -1,2 +1,2 @@
-# Book_great_truth_simple
+# Book: The great truth is simple
 Code for the Book: The great truth is simple.
